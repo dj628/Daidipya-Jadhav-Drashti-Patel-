@@ -49,4 +49,8 @@ Build Instructions :
 Here, i would like to add my build so i will add my schematic daigram as well as my breadboard view the best understanding of my hardware.
 
 
+![schematic](https://user-images.githubusercontent.com/72887751/101516725-7138b300-3945-11eb-94e0-a9345b66c65b.png)
+
+Now i would like to add my breadboard view over here.
+
 
