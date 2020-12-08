@@ -53,4 +53,22 @@ Here, i would like to add my build so i will add my schematic daigram as well as
 
 Now i would like to add my breadboard view over here.
 
+![Breadboard](https://user-images.githubusercontent.com/72887751/101516982-c7a5f180-3945-11eb-8a42-1f7f9b1d98b8.PNG)
 
+Here as you can see in my original project i have used three different lights and an resistor of 560 ohm but in my breadboard view it is different. I have used different as the stuff that was available in fritzing.
+
+The circuit :
+-------------------------------------------------
+
+Taking about my circuit i would like to mention here that how the circuit was made by me.
+
+1. First of all i attached all the leds and the resistor in their ew=quivalent slots.
+2. Afterwards i attached the wires to the pins.
+3. Then i took a 162 lcd screen and attached it to the breadboard.
+4. Then i attached all the wires with as shown in my breadboard view and also i connected a resistor to pin 15.
+5. Then after, i connected the potentiometer so that i can change the potentiometer is required to get the proper printing on the lcd screen.
+6. Atlast, i connected the piezo speaker which start to beeps when some one is wrong.
+7. Now we will connect arduino with pc and run the program and will check if our lie detector works properly or not.
+
+Working :
+--------------------------------------------------
