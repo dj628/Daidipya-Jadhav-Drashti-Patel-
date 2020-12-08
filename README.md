@@ -42,3 +42,11 @@ Hardware/Material Used :
 8. White Led - 1.
 9. 560 OHM Resistor - 4.
 10. Jumper wires.
+
+Build Instructions :
+------------------------------------------------
+
+Here, i would like to add my build so i will add my schematic daigram as well as my breadboard view the best understanding of my hardware.
+
+
+
