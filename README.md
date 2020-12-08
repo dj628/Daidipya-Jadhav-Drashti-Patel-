@@ -1,9 +1,9 @@
 # Daidipya-Jadhav-Drashti-Patel-
 Lie Detector
 
-  Name: Daidipya Nayan Jadhav.
+  Name: Daidipya Nayan Jadhav -- Drashti Patel.
 -------------------------------------------------
-Name: Drashti Patel.
+
 
 
                                      ARDUINO: LIE DETECTOR.
@@ -22,8 +22,23 @@ Repository Contents :
 ----------------------------------------------
 Here is what I will provide in my repository in all the folders which I will upload separately .
 
-->  /src – My software for the device will be uploaded here in src.(.ino)
--> /hardware – My schematic diagram as well as breadboard diagram and the design files    will be uploaded here.(fritzing)
--> /Review- My project review will be uploaded our here.
--> /img – This is where the image files will be uploaded.
--> /Readme – all the stuff or may be overview will be uploaded here.
+->  /src – My software for the device will be uploaded here in src(.ino).
+-> /hardware – My schematic diagram as well as breadboard diagram and the design files will be uploaded here(fritzing).
+-> /Review- My project review will be uploaded our here(.pptx).
+-> /img – This is where the image files will be uploaded(.jpeg,.png).
+-> /examples - The files i used or that can be uploaded on my device will be stored in here(.ino).
+-> /Readme – all the stuff or may be overview will be uploaded here(this file).
+
+Hardware/Material Used :
+----------------------------------------------
+
+-> Arduino -Uno.
+-> Breadboard.
+-> Lcd 16*2.
+-> Piezo Speaker.
+-> Potentiometer.
+-> Red led - 1.
+-> Green Led - 1.
+-> White Led - 1.
+-> 560 OHM Resistor - 4.
+-> Jumper wires.
