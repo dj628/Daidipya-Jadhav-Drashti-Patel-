@@ -72,3 +72,33 @@ Taking about my circuit i would like to mention here that how the circuit was ma
 
 Working :
 --------------------------------------------------
+
+The working of my arduino lie detector will be as follows.
+
+1. First of all i build my hardware part of my lie detector.
+2. Then i started with the code but most of the part of the code is taken from the Dante Roumega's part of code but i have made some modifications as well as i did added a     header file for the lcd in it and i did also make many changes in it.
+3. This project is choosen by me because i am now litreally done with my roommates as i never know that who eats the stuff from fridge. Sometimes to get the truth out you better use some ideas.
+4. So at first i would get my wires with the foil in to the middle and index finger of the person i want to get tested.
+5. Afterwards , i will start my detector and upload the code.
+6. Then after, i would show him/her the graph he/she gets without asking any kind of question.
+7. Now i would ask him/her question and if he/she is right then it will be green light on the arduino and the speaker will be silent and the lcd will print he key word 
+"You are right".
+8. If at all he/she speaks wrong the nervousness in their fingertips will be caught by the wires and the speaker will start buzzing along with the red light and lcd will prompt
+"you are wrong".
+9. Hence, this would be my lie detector for you.
+10. Though it won't be used in serious situations but i would love to use this cool thing on someone in near future.
+
+
+Team :
+--------------------------------------------------
+
+1. Daidipya Nayan Jadhav - I did everything including hardware,software,proposal,github and almost every thing.
+2. Drashti Patel - She helped me with her arduino kit(she gave her kit to me as it consist of almost everything i wanted for my project) and writeup.
+
+Truly speaking that it was not that hard project but because of my laziness I got many drawbacks with my milestone but many were reached at time too.
+
+                                                         
+                                                         
+                                                         
+                                                         
+                                                          THANK YOU
