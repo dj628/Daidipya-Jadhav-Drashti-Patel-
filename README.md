@@ -16,3 +16,14 @@ Name: Drashti Patel.
 
 
 ![Full Hardware](https://user-images.githubusercontent.com/72887751/101454360-7a4e6380-38f6-11eb-9664-88d58f7620bd.jpg)
+
+
+Repository Contents :
+----------------------------------------------
+Here is what I will provide in my repository in all the folders which I will upload separately .
+
+->  /src – My software for the device will be uploaded here in src.(.ino)
+-> /hardware – My schematic diagram as well as breadboard diagram and the design files    will be uploaded here.(fritzing)
+-> /Review- My project review will be uploaded our here.
+-> /img – This is where the image files will be uploaded.
+-> /Readme – all the stuff or may be overview will be uploaded here.
